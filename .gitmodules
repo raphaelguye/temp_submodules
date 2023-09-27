@@ -1,0 +1,3 @@
+[submodule "submodules/citrix-mam-sdks"]
+	path = submodules/citrix-mam-sdks
+	url = git@github.com:citrix/citrix-mam-sdks.git
